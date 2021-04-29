@@ -2,10 +2,14 @@
 title: "Keisuke Kawata's Website"
 ---
 
-Associate professor, Institute of Social Sciences, University of Tokyo (since 2017).
+Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.jp/), and also [Center for Social Research and Data Archives](https://csrda.iss.u-tokyo.ac.jp/english/), [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) (since 2017).
+
+ University of Tokyo
 
 **Academic area:** Economics
 
 **Research interest:** Labor Economics, Development Economics, Empirical Economics with Machine Learning
 
-**Research papers:** See [publon](https://publons.com/researcher/3520251/keisuke-kawata/publications/), [google scholar](https://scholar.google.com/citations?user=edeB7xsAAAAJ&hl=en&oi=ao), [researcher map](https://researchmap.jp/kawatakeisuke?lang=en), or [github](https://github.com/tetokawata)
+**Research papers:** See [publon](https://publons.com/researcher/3520251/keisuke-kawata/publications/), [google scholar](https://scholar.google.com/citations?user=edeB7xsAAAAJ&hl=en&oi=ao), [researcher map](https://researchmap.jp/kawatakeisuke?lang=en), and [github](https://github.com/tetokawata)
+
+**Lecture in this semester:** Econometrics (in the Musashi University)
