@@ -1,1 +1,0 @@
-# tetokawata.github.io
