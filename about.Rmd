@@ -27,7 +27,6 @@ University, October 2013 - March 2017
 September 2013
 
 - Research Fellow of Japan Society for the Promotion of Science April 2010-August 2011
-Publications
 
 ## Referred Journal
 
@@ -153,48 +152,50 @@ in a City.
 design of employment protection policies.
 
 
-## Lecture
+### Lecture
 
-- Econometrics (undergraduate, at Musashi University, Spring/Autumn 2019, 2020)
+- Machine Learning for Economics (Graduate and Undergraduate, at University of Tokyo, Autumn 2019-2020)
 
-- Labor Economics (undergraduate, at Tokyo Metropolitan University, Spring 2019)
+- Econometrics (Undergraduate, at Musashi University, Spring/Autumn 2019-2020)
 
-- Money and Banking (graduate, at Hiroshima University, Spring 2018, 2019)
+- Labor Economics (Undergraduate, at Tokyo Metropolitan University, Spring 2019)
 
-- Advanced Labor Economics (graduate & undergraduate, at University of Tokyo, Spring 2018, Autumn
-2019, 2020)
+- Money and Banking (Graduate, at Hiroshima University, Spring 2018-2019)
 
-- Search Theory (graduate, at University of Tokyo, Fall 2017)
+- Advanced Labor Economics (Graduate & Undergraduate, at University of Tokyo, Spring 2018, Autumn
+2019-2020)
 
-- Time Series Econometrics (graduate, at Hiroshima University, Fall 2017, 2018, 2019)
+- Search Theory (Graduate, at University of Tokyo, Fall 2017)
 
-- Development Econometrics (graduate, at Hiroshima University, Fall 2015)
+- Time Series Econometrics (Graduate, at Hiroshima University, Fall 2017-2019)
 
-- Econometrics (graduate, at Hiroshima University, Spring 2014, 2015, 2016)
+- Development Econometrics (Graduate, at Hiroshima University, Fall 2015)
 
-- Economic Development and Policy (graduate, at Hiroshima University, Spring 2014, 2015)
+- Econometrics (Graduate, at Hiroshima University, Spring 2014-2016)
 
-- Labor Economics (undergraduate, at Hiroshima University, Fall 2011, 2012, 2013)
+- Economic Development and Policy (Graduate, at Hiroshima University, Spring 2014-2015)
 
-- Labor Economics (at Hiroshima University, Fall 2011, 2012, 2013)
+- Labor Economics (Undergraduate, at Hiroshima University, Fall 2011-2013)
 
-# Papers in Conference Proceedings
+- Labor Economics (at Hiroshima University, Fall 2011-2013)
+
+### Papers in Conference Proceedings
 
 - "Explaining the Gender Gap in Student Performance in Mozambique:The Role of Household Tasks", (with Sugata Sumida), ICET2015 Yearbook, Pages 225-236.
 
 - Refereed Journal in Japanese”大規模地域イベントが高速道路利用に与える効果の推定" (with Taichi Nomoto). Expressways and automobiles, Volume 60, 23-31, March 2017. (「道路と交通論文賞」受賞)
 
-# Books in English
+### Books in English
 
 - Chapter 15 (with Yoichi Hizen and Masaru Sasaki) in "Behavioral Interactions, Markets, and Economic Dynamics" (Editors: Sinsuke Ikeda, H.K. Kato, Fumio Ohtake, and Y. Tsutsui) 
 
-# Books in Japanese
+### Books in Japanese
 
 - Chapter 6 & 7 (with Daiji Kawaguchi) in "解雇規制を問い直す -- 金銭解決の制度設計"（Editors: Shinya Ouchi, Daiji Kawaguchi）
 
 - Chapter 12  in "日本の労働市場 -- 経済学者の視点"（Editors: Daiji Kawaguchi）
 
-# Miscellaneous
+### Miscellaneous
 
 - "日本の労働市場におけるミスマッチの測定" 経済分析, 199, 2019.
 
