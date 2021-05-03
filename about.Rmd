@@ -161,27 +161,29 @@ design of employment protection policies.
 
 ### Lecture
 
-- Machine Learning for Economics (Graduate and Undergraduate, at University of Tokyo, Autumn 2019-2020)
+- Machine Learning for Economics (Graduate, at University of Tokyo, Autumn 2019-2020)
+
+- Advanced Labor Economics (Undergraduate, at University of Tokyo, Spring 2018, Autumn
+2019-2020)
 
 - Econometrics (Undergraduate, at Musashi University, Spring/Autumn 2019-2020)
+
+- Data Visualization (Graduate/Undergraduate, at Hiroshima University, Autumn 2020)
 
 - Labor Economics (Undergraduate, at Tokyo Metropolitan University, Spring 2019)
 
 - Money and Banking (Graduate, at Hiroshima University, Spring 2018-2019)
 
-- Advanced Labor Economics (Graduate & Undergraduate, at University of Tokyo, Spring 2018, Autumn
-2019-2020)
+- Search Theory (Graduate, at University of Tokyo, Autumn 2017)
 
-- Search Theory (Graduate, at University of Tokyo, Fall 2017)
+- Time Series Econometrics (Graduate, at Hiroshima University, Autumn 2017-2019)
 
-- Time Series Econometrics (Graduate, at Hiroshima University, Fall 2017-2019)
-
-- Development Econometrics (Graduate, at Hiroshima University, Fall 2015)
+- Development Econometrics (Graduate, at Hiroshima University, Autumn 2015)
 
 - Econometrics (Graduate, at Hiroshima University, Spring 2014-2016)
 
 - Economic Development and Policy (Graduate, at Hiroshima University, Spring 2014-2015)
 
-- Labor Economics (Undergraduate, at Hiroshima University, Fall 2011-2013)
+- Labor Economics (Undergraduate, at Hiroshima University, Autumn 2011-2013)
 
-- Labor Economics (at Hiroshima University, Fall 2011-2013)
+- Labor Economics (at Hiroshima University, Autumn 2011-2013)
