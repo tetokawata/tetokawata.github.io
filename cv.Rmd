@@ -1,0 +1,90 @@
+---
+title: "主要業績"
+author: "川田恵介"
+output:
+  word_document: default
+  pdf_document:
+    latex_engine: xelatex
+    number_sections: yes
+documentclass: bxjsarticle
+header-includes:
+- \usepackage{zxjatype}
+- \usepackage[ipa]{zxjafont}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 査読付き論文
+
+1. Sumida, Sugata, and Keisuke Kawata. "An analysis of the learning performance gap between urban and rural areas in sub-Saharan Africa." *South African Journal of Education* 41, no. 2 (2021).
+
+2. Fukai, Taiyo, Hidehiko Ichimura, and Keisuke Kawata. "Describing the impacts of COVID-19 on the labor market in Japan until June 2020." *The Japanese Economic Review* (2021): 1-32.
+
+3. Kawata, Keisuke, Yasuhiro Sato. "A first aid kit to assess welfare impacts." *Economics Letters* (2021): 109928.
+
+4. Kawaguchi, Daiji, Keisuke Kawata, and Takahiro Toriyabe. "An assessment of Abenomics from the labor market perspective." *Asian Economic Policy Review* (2021).
+
+5. Vu, Ha Thu, Duc Tran, Daisaku Goto, and Keisuke Kawata. "Does experience sharing affect farmers’ pro-environmental behavior? A randomized controlled trial in Vietnam." *World Development* 136 (2020): 105062.
+
+6. Azimy, Mohammad Wais, Ghulam Dastgir Khan, Yuichiro Yoshida, and Keisuke Kawata. "Measuring the Impacts of Saffron Production Promotion Measures on Farmers’ Policy Acceptance Probability: A Randomized Conjoint Field Experiment in Herat Province, Afghanistan." *Sustainability* 12.10 (2020): 4026.
+
+7. Blevins, Benjamin K., and Keisuke Kawata. "The orphan impact: HIV-AIDS and student test scores from sub-Saharan Africa." *Educational Review* (2019): 1-24.
+
+8. Yamamoto, Yuki, Ken’ichi Matsumoto, Keisuke Kawata, and Shinji Kaneko. "Gender-based differences in employment opportunities and wage distribution in Nepal." *Journal of Asian Economics* 64 (2019): 101131.
+
+9. Setiawan, Rulli Pratiwi, Shinji Kaneko, and Keisuke Kawata. "Impacts of pecuniary and non-pecuniary information on pro-environmental behavior: A household waste collection and disposal program in Surabaya city." *Waste Management* 89 (2019): 322-335.
+
+10. Sydavong, Thiptaiya, Daisaku Goto, Keisuke Kawata, Shinji Kaneko, and Masaru Ichihashi.　"Potential demand for voluntary community-based health insurance improvement in rural Lao People’s Democratic Republic: a randomized conjoint experiment." *PLOS ONE* 14.1 (2019): e0210355.
+
+11. Bilotkach, Volodymyr, Keisuke Kawata, Tae Seung Kim, Jaehong Park, Putut Purwandono, and Yuichiro Yoshida. "Quantifying the impact of low-cost carriers on international air passenger movements to and from major airports in Asia." *International Journal of Industrial Organization* 62 (2019): 28-57.
+
+12. Fukuda, Katsufumi, Rofiq Isdwiyani, Keisuke Kawata, and Yuichiro Yoshida. "Measuring the impact of modern waste collection and processing service attributes on residents’ acceptance of waste separation policy using a randomised conjoint field experiment in Yogyakarta Province, Indonesia." *Waste Management & Research* 36.9 (2018): 841-848.
+
+13. Dastgir, Ghulam, Keisuke Kawata, and Yuichiro Yoshida. "Effect of forced relocation on household income and consumption patterns: Evidence from the Aynak copper mine project in Afghanistan." *The Journal of Development Studies* 54.11 (2018): 2061-2077.
+
+14. Nwe, Khin, Keisuke Kawata, and Yuichiro Yoshida. "Recent Political Change in Myanmar and Its Impact on her Economic Growth." *Asian Economic Journal* 32.1 (2018): 39-54.
+
+15. Manoratna, Dinushi Anupama, Keisuke Kawata, and Yuichiro Yoshida. "Environmental impact and travel time savings of a new monorail system in colombo’s commuting traffic." *Transportation Research Part D: Transport and Environment* 51 (2017): 122-128.
+
+16. Kawata, Keisuke, Kentaro Nakajima, and Yasuhiro Sato. "Multi-region job search with moving costs." *Regional Science and Urban Economics* 61 (2016): 114-129.
+
+17. Indarto, Jarot, Shinji Kaneko, and Keisuke Kawata. "Do forest permits cause deforestation in Indonesia?" *International Forestry Review* 17.2 (2015): 165-181.
+
+18. Kawata, Keisuke. "Work hour mismatches and on-the-job search." *Economic Modelling* 47 (2015): 280-291.
+
+19. Hizen, Yoichi, Keisuke Kawata, and Masaru Sasaki. "An experimental test of a committee search model." *European Economic Review* 61 (2013): 59-76.
+
+20. Kawata, Keisuke, and Yasuhiro Sato. "On-the-job search in urban areas." *Regional science and urban economics* 42.4 (2012): 715-726.
+
+
+# 過去１０年の論文・著作
+
+- "雇用ミスマッチの概念の整理", (佐々木勝と共著), 日本労働研究雑誌, Volume 54, Number 9, 4-14, 2012年9月.
+
+- "チャイナ・シンドロームーアメリカの地域労働市場に対する輸入の影響",  日本労働研究雑誌, Volume 55, Number 4, 84-85, 2013年4月.
+
+- "大規模地域イベントが高速道路利用に与える効果の推定", (野本太一と共著), 高速道路と自動車, Volume 60, 23-31, 2017年3月.
+
+- 『日本の労働市場　経済学者の視点』（川口大司編）, 第12章,「労働経済理論」, 有斐閣, 2017年11月.
+
+- 『解雇規制を問い直す -- 金銭解決の制度設計』（大内伸也、川口大司編）, 第６章 「望ましい金銭補償の決定に向けて：完全補償ルール」,（川口大司との共著）, 有斐閣, 2018年2月.
+
+- 『解雇規制を問い直す -- 金銭解決の制度設計』, 第7章 「完全補償ルールに基づく補償金額の算定」, （川口大司との共著）, 有斐閣, 2018年2月.
+
+- "日本の労働市場におけるミスマッチの測定", 経済分析, 199, 122-151, 2019年.
+
+- 『危機対応の社会科学　下』（玄田有史、飯田高編）, 第10章, 「災害対応のための政策意識分析――コンジョイント分析を基に　【確率・意識】」, 東京大学出版会, 2019年12月.
+
+# 自らが代表となっている過去１０年の外部資金の名称とその額
+
+- 海外労働者受け入れ制度に対する政策選好の推定 若手研究(B) 3,250千円 
+
+- 地方公務員数の削減が地域労働市場に与えた影響 若手研究(B) 2,210千円
+
+- 環境イノベーションと競争政策 日本経済研究センター研究奨励金 500千円
+
+# その他
+
+- 道路と交通論文賞, 公益財団法人 高速道路調査会, 2017年

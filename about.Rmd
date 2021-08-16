@@ -39,21 +39,21 @@ September 2013
 
 - Kawaguchi, Daiji, Keisuke Kawata, and Takahiro Toriyabe. ["An assessment of Abenomics from the labor market perspective."](https://doi.org/10.1111/aepr.12343) Asian Economic Policy Review (2021).
 
-- Vu, Ha Thu, et al. ["Does experience sharing affect farmers’ pro-environmental behavior? A randomized controlled trial in Vietnam."](https://doi.org/10.1016/j.worlddev.2020.105062) World Development 136 (2020): 105062.
+- Vu, Ha Thu, Duc Tran, Daisaku Goto, and Keisuke Kawata. ["Does experience sharing affect farmers’ pro-environmental behavior? A randomized controlled trial in Vietnam."](https://doi.org/10.1016/j.worlddev.2020.105062) World Development 136 (2020): 105062.
 
-- Azimy, Mohammad Wais, et al. ["Measuring the Impacts of Saffron Production Promotion Measures on Farmers’ Policy Acceptance Probability: A Randomized Conjoint Field Experiment in Herat Province, Afghanistan."](https://doi.org/10.3390/su12104026) Sustainability 12.10 (2020): 4026.
+- Azimy, Mohammad Wais, Ghulam Dastgir Khan, Yuichiro Yoshida, and Keisuke Kawata. ["Measuring the Impacts of Saffron Production Promotion Measures on Farmers’ Policy Acceptance Probability: A Randomized Conjoint Field Experiment in Herat Province, Afghanistan."](https://doi.org/10.3390/su12104026) Sustainability 12.10 (2020): 4026.
 
 - Blevins, Benjamin K., and Keisuke Kawata. ["The orphan impact: HIV-AIDS and student test scores from sub-Saharan Africa."](https://doi.org/10.1080/00131911.2019.1689100) Educational Review (2019): 1-24.
 
-- Yamamoto, Yuki, et al. ["Gender-based differences in employment opportunities and wage distribution in Nepal."](https://doi.org/10.1016/j.asieco.2019.07.004) Journal of Asian Economics 64 (2019): 101131.
+- Yamamoto, Yuki, Ken’ichi Matsumoto, Keisuke Kawata, and Shinji Kaneko. ["Gender-based differences in employment opportunities and wage distribution in Nepal."](https://doi.org/10.1016/j.asieco.2019.07.004) Journal of Asian Economics 64 (2019): 101131.
 
 - Setiawan, Rulli Pratiwi, Shinji Kaneko, and Keisuke Kawata. ["Impacts of pecuniary and non-pecuniary information on pro-environmental behavior: A household waste collection and disposal program in Surabaya city."](https://doi.org/10.1016/j.wasman.2019.04.015) Waste Management 89 (2019): 322-335.
 
-- Sydavong, Thiptaiya, et al. ["Potential demand for voluntary community-based health insurance improvement in rural Lao People’s Democratic Republic: a randomized conjoint experiment."](https://doi.org/10.1371/journal.pone.0210355) PloS one 14.1 (2019): e0210355.
+- Sydavong, Thiptaiya, Daisaku Goto, Keisuke Kawata, Shinji Kaneko, and Masaru Ichihashi. ["Potential demand for voluntary community-based health insurance improvement in rural Lao People’s Democratic Republic: a randomized conjoint experiment."](https://doi.org/10.1371/journal.pone.0210355) PloS one 14.1 (2019): e0210355.
 
-- Bilotkach, Volodymyr, et al. ["Quantifying the impact of low-cost carriers on international air passenger movements to and from major airports in Asia."](https://doi.org/10.1016/j.ijindorg.2018.03.012) International Journal of Industrial Organization 62 (2019): 28-57.
+- Bilotkach, Volodymyr, Keisuke Kawata, Tae Seung Kim, Jaehong Park, Putut Purwandono, and Yuichiro Yoshida. ["Quantifying the impact of low-cost carriers on international air passenger movements to and from major airports in Asia."](https://doi.org/10.1016/j.ijindorg.2018.03.012) International Journal of Industrial Organization 62 (2019): 28-57.
 
-- Fukuda, Katsufumi, et al. ["Measuring the impact of modern waste collection and processing service attributes on residents’ acceptance of waste separation policy using a randomised conjoint field experiment in Yogyakarta Province, Indonesia."](https://doi.org/10.1177/0734242X18793939) Waste Management & Research 36.9 (2018): 841-848.
+- Fukuda, Katsufumi, Rofiq Isdwiyani, Keisuke Kawata, and Yuichiro Yoshida. ["Measuring the impact of modern waste collection and processing service attributes on residents’ acceptance of waste separation policy using a randomised conjoint field experiment in Yogyakarta Province, Indonesia."](https://doi.org/10.1177/0734242X18793939) Waste Management & Research 36.9 (2018): 841-848.
 
 - Dastgir, Ghulam, Keisuke Kawata, and Yuichiro Yoshida. ["Effect of forced relocation on household income and consumption patterns: Evidence from the Aynak copper mine project in Afghanistan."](https://doi.org/10.1080/00220388.2017.1385767) The Journal of Development Studies 54.11 (2018): 2061-2077.
 
