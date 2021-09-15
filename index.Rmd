@@ -12,4 +12,4 @@ Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.j
 
 **Research papers:** See [publon](https://publons.com/researcher/3520251/keisuke-kawata/publications/), [google scholar](https://scholar.google.com/citations?user=edeB7xsAAAAJ&hl=en&oi=ao), [researcher map](https://researchmap.jp/kawatakeisuke?lang=en), and [github](https://github.com/tetokawata)
 
-**Lecture in this semester:** Econometrics (in Musashi University)
+**Lecture in this semester:** Machine learning for Economics (in the University of Tokyo), Econometrics (in Musashi University)
