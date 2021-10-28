@@ -2,10 +2,10 @@
 title: ""
 ---
 
-- This semester 
+## This semester 
 
-  - Machine Learning For Economics (at University of Tokyo)
+- Machine Learning For Economics (at University of Tokyo)
 
-  - Econometrics (at Musashi University)
+- Econometrics (at Musashi University)
 
 - See [Cookbook for prediction, comparison, and causal inference with R](https://tetokawata.github.io/R_JPN/)
