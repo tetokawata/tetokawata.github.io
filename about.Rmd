@@ -33,9 +33,15 @@ September 2013
 
 - Blevins, Benjamin K., and Keisuke Kawata. ["The orphan impact: HIV-AIDS and student test scores from sub-Saharan Africa."](https://doi.org/10.1080/00131911.2019.1689100) Educational Review 73 (2021): 690-713.
 
+- Kawata, Keisuke, and Masaki Nakabayashi. ["Determinants of COVID-19 vaccine preference: A survey study in Japan."](https://doi.org/10.1016/j.ssmph.2021.100902) SSM-Population Health 15 (2021): 100902.
+
+  - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/16)
+
 - Sumida, Sugata, and Keisuke Kawata. ["An analysis of the learning performance gap between urban and rural areas in sub-Saharan Africa."](https://doi.org/10.15700/saje.v41n2a1779) South African Journal of Education 41 (2021)
 
 - Fukai, Taiyo, Hidehiko Ichimura, Keisuke Kawata. ["Describing the impacts of COVID-19 on the labor market in Japan until June 2020."](https://doi.org/10.1007/s42973-021-00081-z) Japanese Economic Review 72 (2021): 439-470.
+
+  - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/15)
 
 - Kawata, Keisuke, Yasuhiro Sato. ["A first aid kit to assess welfare impacts."](https://doi.org/10.1016/j.econlet.2021.109928) Economics Letters (2021): 109928.
 
