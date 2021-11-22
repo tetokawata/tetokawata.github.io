@@ -18,7 +18,9 @@ title: ""
 
 - Kawata, Keisuke, Yasuhiro Sato. ["A first aid kit to assess welfare impacts."](https://doi.org/10.1016/j.econlet.2021.109928) Economics Letters (2021): 109928.
 
-  - [CIRJE](http://www.cirje.e.u-tokyo.ac.jp/research/dp/2021/2021cf1163.pdf)
+  - [CIRJE Discussion Paper Series](http://www.cirje.e.u-tokyo.ac.jp/research/dp/2021/2021cf1163.pdf)
+  
+    - [Non technical introduction (Japanese)](http://www.crepe.e.u-tokyo.ac.jp/material/crepecl12.html)
 
 - Kawaguchi, Daiji, Keisuke Kawata, and Takahiro Toriyabe. ["An assessment of Abenomics from the labor market perspective."](https://doi.org/10.1111/aepr.12343) Asian Economic Policy Review 16 (2021): 247–278.
 
