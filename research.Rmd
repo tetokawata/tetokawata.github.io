@@ -4,6 +4,8 @@ title: ""
 
 ## Referred Journal
 
+- Liu, Yang, and Keisuke Kawata. ["Labour market and wage inequalities between permanent rural migrants and urban-born residents in China."](https://doi.org/10.1080/00036846.2021.1925079) Applied Economics (2022): 1-15.
+
 - Blevins, Benjamin K., and Keisuke Kawata. ["The orphan impact: HIV-AIDS and student test scores from sub-Saharan Africa."](https://doi.org/10.1080/00131911.2019.1689100) Educational Review 73 (2021): 690-713.
 
 - Kawata, Keisuke, and Masaki Nakabayashi. ["Determinants of COVID-19 vaccine preference: A survey study in Japan."](https://doi.org/10.1016/j.ssmph.2021.100902) SSM-Population Health 15 (2021): 100902.
