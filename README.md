@@ -1,1 +1,1 @@
-This is reposit for Keisuke Kawata's homepage
+This reposit is for Keisuke Kawata's homepage
