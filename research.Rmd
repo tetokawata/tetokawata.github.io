@@ -4,6 +4,10 @@ title: ""
 
 ## Referred Journal
 
+- Takashi Iida, Keisuke Kawata, and Masaki Nakabayashi. ["The citizen Preferences–Positive externality trade-off a survey study of COVID-19 vaccine deployment in Japan"](https://doi.org/10.1016/j.ssmph.2022.101191) SSM-Population Health fothcoming.
+
+    - [CSRDA Discussion Paper Series](https://csrdadps.com/api/files/24/58e0c079-64e1-4388-916e-58b6e38b9f43.pdf)
+
 - Liu, Yang, and Keisuke Kawata. ["Labour market and wage inequalities between permanent rural migrants and urban-born residents in China."](https://doi.org/10.1080/00036846.2021.1925079) Applied Economics (2022): 1-15.
 
 - Blevins, Benjamin K., and Keisuke Kawata. ["The orphan impact: HIV-AIDS and student test scores from sub-Saharan Africa."](https://doi.org/10.1080/00131911.2019.1689100) Educational Review 73 (2021): 690-713.
