@@ -6,6 +6,12 @@ title: ""
 
 - Machine Learning For Economics (at University of Tokyo)
 
+    - [Github](https://github.com/tetokawata/TargetML)
+
 - Labor Economics II (at Musashi University)
 
-- See [Cookbook for prediction, comparison, and causal inference with R](https://tetokawata.github.io/R_JPN/)
+    - [Github](https://github.com/tetokawata/JapanLaborMarket)
+
+- [日本語によるR実装解説](https://tetokawata.github.io/BookEmiricalSocialML/)
+
+    - Old version [Cookbook for prediction, comparison, and causal inference with R](https://tetokawata.github.io/R_JPN/)
