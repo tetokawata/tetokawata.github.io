@@ -8,9 +8,9 @@ title: ""
 
     - [Github](https://github.com/tetokawata/TargetML)
 
-- Labor Economics II (at Musashi University)
+- Machine Learning For Economics (at Musashi University)
 
-    - [Github](https://github.com/tetokawata/JapanLaborMarket)
+    - [Github](https://github.com/tetokawata/UnderGradEconML)
 
 - [日本語によるR実装解説](https://tetokawata.github.io/BookEmiricalSocialML/)
 
