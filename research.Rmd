@@ -59,3 +59,7 @@ title: ""
 - Hizen, Yoichi, Keisuke Kawata, and Masaru Sasaki. ["An experimental test of a committee search model."](https://doi.org/10.1016/j.euroecorev.2013.03.002) European Economic Review 61 (2013): 59-76.
 
 - Kawata, Keisuke, and Yasuhiro Sato. ["On-the-job search in urban areas."](https://doi.org/10.1016/j.regsciurbeco.2012.04.004) Regional science and urban economics 42.4 (2012): 715-726.
+
+## Others
+
+- [労働者の就業選好: 就業支援NPOとの共同調査結果 (工藤, 吉岡, 龍治)](https://www.dropbox.com/s/63gzawwisrxo11a/DraftPDF.pdf?dl=0)
