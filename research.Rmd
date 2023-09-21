@@ -4,6 +4,16 @@ title: ""
 
 ## Referred Journal
 
+- Keisuke Kawata, Kenneth McElwain, and Masaki Nakabayashi. "Narrative premiums in policy persuasion" Political Psychology (forthcoming).
+
+- Taiyo Fukai, Keisuke Kawata, and Masaki Nakabayashi. "Updated beliefs and shaken confidence: evidence from vaccine hesitancy caused by experiencing “COVID arm”" BMC Infectious Diseases 23 (2023).
+
+    - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/35)
+
+- Keisuke Kawata, and Masaki Nakabayashi. ["Persistent mind: The effects of information provision on policy preferences"](https://doi.org/10.1016/j.jpolmod.2023.05.002) Journal of Policy Modeling 45 (2023): 522-537.
+
+    - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/5)
+
 - Takashi Iida, Keisuke Kawata, and Masaki Nakabayashi. ["The citizen Preferences–Positive externality trade-off a survey study of COVID-19 vaccine deployment in Japan"](https://doi.org/10.1016/j.ssmph.2022.101191) SSM-Population Health (2022): 101191.
 
     - [CSRDA Discussion Paper Series](https://csrdadps.com/api/files/24/58e0c079-64e1-4388-916e-58b6e38b9f43.pdf)
@@ -18,11 +28,11 @@ title: ""
 
 - Sumida, Sugata, and Keisuke Kawata. ["An analysis of the learning performance gap between urban and rural areas in sub-Saharan Africa."](https://doi.org/10.15700/saje.v41n2a1779) South African Journal of Education 41 (2021): 1-17.
 
-- Fukai, Taiyo, Hidehiko Ichimura, Keisuke Kawata. ["Describing the impacts of COVID-19 on the labor market in Japan until June 2020."](https://doi.org/10.1007/s42973-021-00081-z) Japanese Economic Review 72 (2021): 439-470.
+- Fukai, Taiyo, Hidehiko Ichimura, and Keisuke Kawata. ["Describing the impacts of COVID-19 on the labor market in Japan until June 2020."](https://doi.org/10.1007/s42973-021-00081-z) Japanese Economic Review 72 (2021): 439-470.
 
   - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/15)
 
-- Kawata, Keisuke, Yasuhiro Sato. ["A first aid kit to assess welfare impacts."](https://doi.org/10.1016/j.econlet.2021.109928) Economics Letters (2021): 109928.
+- Kawata, Keisuke, and Yasuhiro Sato. ["A first aid kit to assess welfare impacts."](https://doi.org/10.1016/j.econlet.2021.109928) Economics Letters (2021): 109928.
 
   - [CIRJE Discussion Paper Series](http://www.cirje.e.u-tokyo.ac.jp/research/dp/2021/2021cf1163.pdf)
   
