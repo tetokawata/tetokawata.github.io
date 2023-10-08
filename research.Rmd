@@ -4,9 +4,9 @@ title: ""
 
 ## Referred Journal
 
-- Keisuke Kawata, Kenneth McElwain, and Masaki Nakabayashi. "Narrative premiums in policy persuasion" Political Psychology (forthcoming).
+- Keisuke Kawata, Kenneth McElwain, and Masaki Nakabayashi. ["Narrative premiums in policy persuasion"](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12928) Political Psychology (forthcoming).
 
-- Taiyo Fukai, Keisuke Kawata, and Masaki Nakabayashi. "Updated beliefs and shaken confidence: evidence from vaccine hesitancy caused by experiencing “COVID arm”" BMC Infectious Diseases 23 (2023).
+- Taiyo Fukai, Keisuke Kawata, and Masaki Nakabayashi. ["Updated beliefs and shaken confidence: evidence from vaccine hesitancy caused by experiencing “COVID arm”"](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-023-08558-5) BMC Infectious Diseases 23 (2023): 
 
     - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/35)
 
