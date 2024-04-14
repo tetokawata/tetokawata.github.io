@@ -7,6 +7,10 @@ title: ""
 - Machine Learning For Economics (at University of Tokyo)
 
     - [Github](https://github.com/tetokawata/TargetML)
+    
+- Empirical Labor Economics (at Osaka University)
+
+    - [Github](https://github.com/tetokawata/EmpiricalLaborEconomics)
 
 - Machine Learning For Economics (at Musashi University)
 
