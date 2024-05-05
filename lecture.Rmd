@@ -15,6 +15,8 @@ title: ""
 - Machine Learning For Economics (at Musashi University)
 
     - [Github](https://github.com/tetokawata/UnderGradEconML)
+    
+- Intensive: Machine Learning For Economics (at Tokyo Keizai University)
 
 - [日本語によるR実装解説](https://tetokawata.github.io/BookEmiricalSocialML/)
 
