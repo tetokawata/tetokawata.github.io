@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The 19th Applied Econometrics Conference
+
+- 第１９回応用計量経済学カンファレンス
+
+**Date:** November 9, 2024 (Saturday)
+
+**Session:** In-Person (online available for those living abroad)
+
+**Venue:** Kojima Hall, Hongou Campus, University of Tokyo
+
+**Call for paper:** Deadline: September, 2, 2024 (Monday)
+
+- **Applicants:** Graduate students, post-doctoral researchers, and other researchers on fixed-term contracts. (Domestic travel and accommodation expenses for in-person participants will be covered).
+
+  - **Any field is regarding the empirical analysis** uses microeconometric techniques. Labor economics, industrial organization, development economics, economics of education, health economics, public economics, consumption and investment, experimental economics, and any other field is acceptable. 
+
+- **Submition:** Send an email to Keisuke Kawata (keisukekawata@iss.u-tokyo.ac.jp) with your name, affiliation, contact information, and the title of your paper in the email, and a PDF file attached with your paper. Please write "Applied Econometrics Conference Application Paper" in the subject line. If there are too many applicants, your paper may be rejected by the selection process, and the paper and program will be decided by Friday, September 27, 2024, and presenters will be notified via e-mail.
+
+**Secretariat:** For inquiries regarding planning and content, please contac (Keisuke Kawata: keisukekawata@iss.u-tokyo.ac.jp)
+
+**Organizing Committee:** 臼井恵美子、大竹文雄、大湾秀雄、川ロ大司、川田恵介、佐々木勝、高久玲音、中林純、西脇雅人、野口晴子、横山泉

@@ -10,4 +10,6 @@ navbar:
       href: about.html
     - text: "Lectuare"
       href: lecture.html
+    - text: "The 19th Applied Econometrics Conference"
+      href: Workshop.html
 output_dir: "docs"
