@@ -2,7 +2,13 @@
 title: ""
 ---
 
+## Working Papers
+
+- Taiyo Fukai, Keisuke Kawata, Mizuki Komura and Takahiro Toriyabe. [Gender gap in the ask salaries: evidence from larger administrative data](https://csrdadps.com/paper/93)
+
 ## Referred Journal
+
+- Sayaka Usui, Benjamin K. Blevins and Keisuke Kawata. [Social gender inequality and the gender gap in the classroom: evidence from Southern and Eastern Africa](https://www.tandfonline.com/doi/citedby/10.1080/02589001.2024.2375658?scroll=top&needAccess=true) Journal of Contemporary African Studies (forthcoming)
 
 - Mirlan Atabekov, Volodymyr Bilotkach, Keisuke Kawata, Ghulam Dastgir Khan, Chikage Miyoshi, Miyu Sakamoto and Yuichiro Yoshida. [Double-edged impacts of carbon footprint information on international air travel demand](https://www.sciencedirect.com/science/article/pii/S0969699724000358?casa_token=jM4-upHz3QoAAAAA:pLyOtt04K-YsQY8Nha_9-Gnh94TmohsKyCmzs6N6Jy8CAQ8J1VLeLnaxTC8slDqSg6WS2d9txg) Journal of Air Transport Management 117 (2024) : 102570.
 
