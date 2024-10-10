@@ -12,6 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
     - Conference for early carrer empirical economists.
 
+**Registration:** https://www.cirje.e.u-tokyo.ac.jp/
+
 **Date:** November 9, 2024 (Saturday)
 
 **Schedule:**
