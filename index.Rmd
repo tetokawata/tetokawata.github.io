@@ -11,3 +11,25 @@ Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.j
 **Research interest:** Labor, Development, Spatial, & Empirical Economics.
 
 **Research papers:** See [semantic scholar](https://www.semanticscholar.org/author/Keisuke-Kawata/51184440), [publon](https://publons.com/researcher/3520251/keisuke-kawata/publications/), [google scholar](https://scholar.google.com/citations?user=edeB7xsAAAAJ&hl=en&oi=ao), [researcher map](https://researchmap.jp/kawatakeisuke?lang=en), and [github](https://github.com/tetokawata)
+
+**Lecture:**
+
+  - Machine Learning For Economics (at University of Tokyo)
+
+      - [Github](https://github.com/tetokawata/TargetML)
+    
+  - Empirical Labor Economics (at Osaka University)
+
+      - [Github](https://github.com/tetokawata/EmpiricalLaborEconomics)
+
+  - Machine Learning For Economics (at Musashi University)
+
+      - [Github](https://github.com/tetokawata/UnderGradEconML)
+    
+  - Intensive: Machine Learning For Economics (at Tokyo Keizai University)
+
+      - [Github](https://github.com/tetokawata/GentleML4Econ)
+
+  - 補助資料(日本語)
+
+      - [母平均の推定: OLSと機械学習](https://tetokawata.github.io/NoteBLP/)
