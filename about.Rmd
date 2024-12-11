@@ -31,70 +31,49 @@ September 2013
 
 ## Presentation in Conference
 
-- The Asian and Australasian Society of Labour Economics, Soul National University, Dec 13-15, 2018.
-Title: Information Effect and Preference for Migration Policy.
-2
+- 日本経済学会, 東京経済大学, 2024年6月
 
-- The 6th Asian Political Methodology Meeting, Doshiha University, Jan 5 - 6, 2018. Title: Information
-Effect and Preference for Migration Policy.
+- Asian and Australasian Society of Labour Economics, Soul National University, 2018年12月.
 
-- International Association of Applied Econometrics 2017 Annual Conference, Hotel Emisa Sapporo,
-June, 27, 2017, Title: Estimating Effects of Working Conditions on Labor Surplus: Application to
-Rural Myanmar.
+- Asian Political Methodology Meeting, 同志社大学, 2018年1月.
 
-- Society for Political Methodology Summer Methods Meetings, University of Wisconsin, Madison, June,
-16, 2017, Title: A Nonparametric Welfare Analysis on Water Quality Improvement of the Floating
-People on Inlay Lake via a Randomized Conjoint Field Experiment
+- International Association of Applied Econometrics, Hotel Emisa Sapporo, 2017年6月.
 
-- The Applied Regional Science Conference, Ryukyu University, November, 29, 2014, Title: Foreign
-influence and populism.
+- Society for Political Methodology Summer Methods Meetings, University of Wisconsin, Madison, 2017年6月.
 
-- The 27th Annual Conference of the European Society for Population Economics, the University if
-Minho, Portugal, June 18, 2014, Title: Work Hour Mismatch and On-the-job Search.
+- 応用地域学会, 琉球大学, 2014年11月.
 
-- The Applied Regional Science Conference, Kyoto University, December, 14, 2013, Title: Protectionism
-and Employment Promotion Policy: The Role of International Policy Agreements. Labor Economics
-Conference, Nihon University, September 13, 2013, Title: Working out the impacts of labor market
-integration.
+- Annual Conference of the European Society for Population Economics, the University if Minho, 2014年6月.
 
-- The 2013 meeting of the Asia-Pacific Economic Science Association, Waseda University, February,
-16, 2013, Title: Committee Search with Ex-ante Heterogeneous Agents: Theory and Experimental
-Evidence.
+- 応用地域学会, 京都大学, 2013年12月.
 
-- The 26th Annual Conference of ARSC, Aomori Public College, November, 17, 2012, Title: Explicit
-Spatial Friction and Workers Heterogeneity in Urban Search-Matching Models.
+- 労働経済学カンファレンス, 日本大学, 2013年9月.
 
-- Labor Economics Conference, Osaka University, September 17, 2012, Title: Globalization and Optimal
-Employment Protection Policy.
+- Asia-Pacific Economic Science Association, 早稲田大学, 2013年2月.
 
-- Japanese Economic Association, Hokkaido University, June 23, 2012, Title: Globalization and Optimal
-Employment Protection Policy.
+- 応用地域学会, 青森公立大学, 2012年11月.
 
-- Association for Public Economic Theory 12, Academia Sinica, Taiwan, June 12, 2012 Title: Changing
-Worker’s States and Inefficient Decisions on Turnover.
+- 労働経済学カンファレンス, 大阪大学, 2012年9月.
 
-- The Econometric Society Australasian Meeting, the University of Adelaide, Australia, July 7, 2011,
-Title: Changing worker’s states and inefficient decisions on turnover.
+- 日本経済学会, 北海道大学, 2012年6月.
 
-- Japanese Economic Association, Kumamoto Gakuen University, May 21, 2011, Title: On-the-job search
-in city areas.
+- Association for Public Economic Theory, Academia Sinica, 2012年6月.
 
-- The 2011 meeting of the Asia-Pacific Economic Science Association, the University of Nottingham
-Malaysia Campus, Malaysia, February 12, 2011 Title: An Experimental Test of a Collective Search
-Model.
+- Econometric Society Australasian Meeting, the University of Adelaide, 2011年7月.
 
-- International Workshop on Experimental Economics and Finance, Xiamen University, China, December
-15, 2010, Title: An Experimental Test of a Collective Search Model.
+- 日本経済学会, 熊本学院大学, 2011年5月.
 
-- Applied Regional Science Conference, Nagoya University, December 4, 2010, Title: On-the-job Search
-in a City.
+- Asia-Pacific Economic Science Association, the University of Nottingham Malaysia Campus, 2011年2月.
 
-- Japanese Economic Association, Kwansei Gakuin University, September 18, 2010, Title: An Experimental Test of a Collective Search Model.
+- International Workshop on Experimental Economics and Finance, Xiamen University, 2010年12月.
 
-- Experimental Social Science Conference, Hitotsubashi University, September 12, 2010, Title: An Experimental Test of a Collective Search Model.
+- 応用地域学会, 名古屋大学, 2010年12月.
 
-- Japanese Economic Association, Chiba University, June 5, 2010, Title: Self-confidence and optimal
-design of employment protection policies.
+- 日本経済学会, 関西学院大学, 2010年9月.
+
+- 実験社会科学カンファレンス, 一橋大学, 2010年9月.
+
+- 日本経済学会, 千葉大学, 2010年6月.
 
 
 ### Papers in Conference Proceedings
@@ -113,15 +92,27 @@ design of employment protection policies.
 
 - Chapter 12  in "日本の労働市場 -- 経済学者の視点"（Editors: Daiji Kawaguchi）
 
-### Miscellaneous
+### Papers in Japanese
+
+- 川田恵介 (院亭との共著). "営利・非営利企業間賃金格差―介護産業を事例とする教師付き学習を用いた労働者間異質性の探索―." 経済研究 74.1.2 (2023): 1-13.
 
 - "日本の労働市場におけるミスマッチの測定" 経済分析, 199, 2019.
+
+- 川田恵介 (野本太一との共著). "大規模地域イベントが高速道路利用に与える効果の推定." 高速道路と自動車 60.3 (2017): 23-31. 共著
+
+### Non-refereed papers
+
+- "コロナ下の求職活動." 社会科学研究 72.1 (2021): 83-106.
+
+- "新型コロナ・ウイルスが雇用に与える影響." 日本労働研究雑誌 63.4 (2021): 2-7.
+
+- "完全補償ルールの考え方." 日本労働研究雑誌 61.10 (2019): 25-36.
+
+- "チャイナ・シンドロームーアメリカの地域労働市場に対する輸入の影響",  Japanese Journal of Labour Studies, Volume 55, Number 4, Page 84-85, April 2013.
 
 - "Efficiency of Skill Training for Acquiring Sector-Specific Skills with Search Frictions",  Osaka Economic Papers, Volume 61, Number 4, March 2012.
 
 - "雇用ミスマッチの概念の整理"  (with Masaru Sasaki),  Japanese Journal of Labour Studies, Volume 54, Number 9, Page 4-14, September 2012.
-
-- "チャイナ・シンドロームーアメリカの地域労働市場に対する輸入の影響",  Japanese Journal of Labour Studies, Volume 55, Number 4, Page 84-85, April 2013.
 
 - [短期留学プログラムが語学力到達度に与える影響について:広島大
 学 START プログラムの事例から](https://www.dropbox.com/s/qj3nyi0i1myhpz4/%E5%B7%9D%E7%94%B0_%E8%A5%BF%E8%B0%B7_%E7%95%99%E5%AD%A6%28%E6%97%A5%E6%9C%AC%E8%AA%9E%29%20.pdf?dl=0)
