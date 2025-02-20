@@ -8,6 +8,4 @@ navbar:
       href: research.html
     - text: "CV"
       href: about.html
-    - text: "The 19th Applied Econometrics Conference"
-      href: Workshop.html
 output_dir: "docs"

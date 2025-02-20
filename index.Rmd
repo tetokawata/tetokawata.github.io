@@ -26,12 +26,12 @@ Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.j
 
       - [Github](https://github.com/tetokawata/UnderGradEconML)
     
-  - Intensive: Machine Learning For Economics (at Tokyo Keizai University)
+  - Intensive: Data Visualization (at Tokyo Keizai University)
 
-      - [Github](https://github.com/tetokawata/GentleML4Econ)
+  - Intensive: Machine Learning (Working People, at JCER, Summer intensive 2022-)
 
   - 補助資料(日本語)
 
       - [母平均の推定: OLSと機械学習](https://tetokawata.github.io/NoteBLP/)
       
-      - [バランス後の母平均差の推定](https://github.com/tetokawata/NoteBalance)
+      - [格差/因果/比較分析](https://github.com/tetokawata/NoteBalance)

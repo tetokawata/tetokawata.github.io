@@ -119,13 +119,15 @@ September 2013
 
 ### Lecture
 
-- Machine Learning for Economics (Graduate, at University of Tokyo, Autumn 2019-2023)
+- Empirical Labor Economics (Graduate, at Osaka University, Autumn 2024-)
 
-- Machine Learning for Economics (Undergraduate, at Musashi University, Spring 2022-2023)
+- Machine Learning for Economics (Graduate, at University of Tokyo, Autumn 2019-)
 
-- Machine Learning for Economics (Undergraduate, at Tokyo Economics University, Summer intensive 2022-2023)
+- Machine Learning for Economics (Undergraduate, at Musashi University, Spring 2022-)
 
-- Machine Learning for Economics (Undergraduate, at JCER, Summer intensive 2022-2023)
+- Machine Learning for Economics (Undergraduate, at Tokyo Economics University, Summer intensive 2022-2024)
+
+- Machine Learning (Working People, at JCER, Summer intensive 2022-)
 
 - Advanced Labor Economics (Undergraduate, at University of Tokyo, Spring 2018, Autumn
 2019-2021)
