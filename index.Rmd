@@ -14,21 +14,25 @@ Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.j
 
 **Lecture:**
 
-  - Machine Learning For Economics (at University of Tokyo)
+  - Machine Learning For Economist (for graduate/undergraduate, at the University of Tokyo)
 
       - [Github](https://github.com/tetokawata/TargetML)
     
-  - Empirical Labor Economics (at Osaka University)
+  - Empirical Labor Economics (for graduate, at Osaka University)
 
       - [Github](https://github.com/tetokawata/EmpiricalLaborEconomics)
 
-  - Machine Learning For Economics (at Musashi University)
+  - Machine Learning For Economist (for undergraduate, at Musashi University)
 
       - [Github](https://github.com/tetokawata/UnderGradEconML)
     
-  - Intensive: Data Visualization (at Tokyo Keizai University)
+  - Intensive
+  
+    - Data Visualization (for undergraduate, at Tokyo Keizai University)
 
-  - Intensive: Machine Learning (Working People, at JCER, Summer intensive 2022-)
+    - Machine Learning (for working person, at the Japan Center for Economic Research)
+  
+    - Machine Learning/AI Boot Camp (for reseacher/working person, at the Bank of Japan)
 
   - 補助資料(日本語)
 
