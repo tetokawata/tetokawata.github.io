@@ -4,7 +4,9 @@ title: ""
 
 ## Working Papers
 
-- Taiyo Fukai, Keisuke Kawata, Mizuki Komura and Takahiro Toriyabe. [Gender gap in the ask salaries: evidence from larger administrative data](https://csrdadps.com/paper/93)
+- Taiyo Fukai, Keisuke Kawata, Mizuki Komura and Takahiro Toriyabe. [The wage-mismatch index: A new indicator of labor demand in the job search market](http://www-econ.kwansei.ac.jp/RePEc/pdf/kgdp296.pdf) (2025)
+
+- Taiyo Fukai, Keisuke Kawata, Mizuki Komura and Takahiro Toriyabe. [Gender gap in the ask salaries: Evidence from larger administrative data](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.93.pdf) (2025)
 
 ## Referred Journal
 
@@ -19,15 +21,15 @@ title: ""
 
 - Taiyo Fukai, Keisuke Kawata, and Masaki Nakabayashi. ["Updated beliefs and shaken confidence: evidence from vaccine hesitancy caused by experiencing “COVID arm”"](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-023-08558-5) BMC Infectious Diseases 23 (2023): 612.
 
-    - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/35)
+    - [CSRDA Discussion Paper Series](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.35.pdf)
 
 - Keisuke Kawata, and Masaki Nakabayashi. ["Persistent mind: The effects of information provision on policy preferences"](https://doi.org/10.1016/j.jpolmod.2023.05.002) Journal of Policy Modeling 45 (2023): 522-537.
 
-    - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/5)
+    - [CSRDA Discussion Paper Series](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.5.pdf)
 
 - Takashi Iida, Keisuke Kawata, and Masaki Nakabayashi. ["The citizen Preferences–Positive externality trade-off a survey study of COVID-19 vaccine deployment in Japan"](https://doi.org/10.1016/j.ssmph.2022.101191) SSM-Population Health (2022): 101191.
 
-    - [CSRDA Discussion Paper Series](https://csrdadps.com/api/files/24/58e0c079-64e1-4388-916e-58b6e38b9f43.pdf)
+    - [CSRDA Discussion Paper Series](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.24.pdf)
 
 - Liu, Yang, and Keisuke Kawata. ["Labour market and wage inequalities between permanent rural migrants and urban-born residents in China."](https://doi.org/10.1080/00036846.2021.1925079) Applied Economics (2022): 1-15.
 
@@ -35,13 +37,13 @@ title: ""
 
 - Kawata, Keisuke, and Masaki Nakabayashi. ["Determinants of COVID-19 vaccine preference: A survey study in Japan."](https://doi.org/10.1016/j.ssmph.2021.100902) SSM-Population Health 15 (2021): 100902.
 
-  - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/16)
+  - [CSRDA Discussion Paper Series](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.16.pdf)
 
 - Sumida, Sugata, and Keisuke Kawata. ["An analysis of the learning performance gap between urban and rural areas in sub-Saharan Africa."](https://doi.org/10.15700/saje.v41n2a1779) South African Journal of Education 41 (2021): 1-17.
 
 - Fukai, Taiyo, Hidehiko Ichimura, and Keisuke Kawata. ["Describing the impacts of COVID-19 on the labor market in Japan until June 2020."](https://doi.org/10.1007/s42973-021-00081-z) Japanese Economic Review 72 (2021): 439-470.
 
-  - [CSRDA Discussion Paper Series](https://csrdadps.com/paper/15)
+  - [CSRDA Discussion Paper Series](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.15.pdf)
 
 - Kawata, Keisuke, and Yasuhiro Sato. ["A first aid kit to assess welfare impacts."](https://doi.org/10.1016/j.econlet.2021.109928) Economics Letters (2021): 109928.
 
