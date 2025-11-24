@@ -12,7 +12,7 @@ title: ""
 
 ## Referred Journal
 
-- Keisuke Kawata, and Mizuki Komura. "Only child matching penalty in the marriage market." Journal of Demographic Economics *accepted*.
+- Keisuke Kawata, and Mizuki Komura. ["Only child matching penalty in the marriage market."](https://doi.org/10.1017/dem.2025.10011) Journal of Demographic Economics *accepted*.
 
     - [CSRDA Discussion Paper Series](https://csrda.iss.u-tokyo.ac.jp/international/dp/No.37.pdf)
 
