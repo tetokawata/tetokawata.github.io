@@ -8,4 +8,7 @@ navbar:
       href: research.html
     - text: "CV"
       href: about.html
+    - icon: github 
+      href: https://github.com/tetokawata
+      aria-label: GitHub
 output_dir: "docs"

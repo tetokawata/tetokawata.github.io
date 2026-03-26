@@ -8,19 +8,15 @@ Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.j
 
 **Academic area:** Economics
 
-**Research interest:** Labor, Development, Spatial, & Empirical Economics.
+**Research interest:** Labor and Applied Empirical Economics.
 
-**Research papers:** See [semantic scholar](https://www.semanticscholar.org/author/Keisuke-Kawata/51184440), [publon](https://publons.com/researcher/3520251/keisuke-kawata/publications/), [google scholar](https://scholar.google.com/citations?user=edeB7xsAAAAJ&hl=en&oi=ao), [researcher map](https://researchmap.jp/kawatakeisuke?lang=en), and [github](https://github.com/tetokawata)
+**Research papers:** See [google scholar](https://scholar.google.com/citations?user=edeB7xsAAAAJ&hl=en&oi=ao) and [github](https://github.com/tetokawata)
 
-**Lecture:**
+**Lecture (2026):**
 
   - Machine Learning For Economist (for graduate/undergraduate, at the University of Tokyo)
 
       - [Github](https://github.com/tetokawata/TargetML)
-    
-  - Empirical Labor Economics (for graduate, at Osaka University)
-
-      - [Github](https://github.com/tetokawata/EmpiricalLaborEconomics)
 
   - Machine Learning For Economist (for undergraduate, at Musashi University)
 
@@ -31,10 +27,10 @@ Associate professor, [Institute of Social Sciences](https://www.iss.u-tokyo.ac.j
     - Data Visualization (for undergraduate, at Tokyo Keizai University)
 
     - Machine Learning (for working person, at the Japan Center for Economic Research)
-  
-    - Machine Learning/AI Boot Camp (for reseacher/working person, at the Bank of Japan)
 
   - 補助資料(日本語)
+
+      - [データ分析: 入門](https://tetokawata.github.io/BookEntry/)
 
       - [母平均の推定: OLSと機械学習](https://tetokawata.github.io/NoteBLP/)
       

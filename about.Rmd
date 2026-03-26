@@ -31,6 +31,8 @@ September 2013
 
 ## Presentation in Conference
 
+- 数理社会学会, 日本大学, 2026年3月
+
 - 日本経済学会, 東京経済大学, 2024年6月
 
 - Asian and Australasian Society of Labour Economics, Soul National University, 2018年12月.
@@ -119,30 +121,32 @@ September 2013
 
 ### Lecture
 
-- Empirical Labor Economics (Graduate, at Osaka University, Autumn 2024-)
-
-- Machine Learning for Economics (Graduate, at University of Tokyo, Autumn 2019-)
+- Machine Learning for Economics (Graduate/Undergraduate, at University of Tokyo, Autumn 2019-)
 
 - Machine Learning for Economics (Undergraduate, at Musashi University, Spring 2022-)
 
+- Data Visualization (Undergraduate, at Tokyo Economics University, Summer intensive 2025-)
+
+- Empirical Labor Economics (Graduate, at Osaka University, Autumn 2024- Autumn 2025)
+
+- Data Analysis with R (Researcher/Working person, at Ministry of Cabin, Autumn 2023 -)
+
 - Machine Learning for Economics (Undergraduate, at Tokyo Economics University, Summer intensive 2022-2024)
 
-- Machine Learning (Working People, at JCER, Summer intensive 2022-)
+- Data Visualization (Graduate/Undergraduate, at Hiroshima University, Autumn 2020-2023)
+
+- Econometrics (Undergraduate, at Musashi University, Spring/Autumn 2019-2021)
+
+- Labor Economics (Undergraduate, at Tokyo Metropolitan University, Spring 2019)
 
 - Advanced Labor Economics (Undergraduate, at University of Tokyo, Spring 2018, Autumn
 2019-2021)
 
-- Econometrics (Undergraduate, at Musashi University, Spring/Autumn 2019-2021)
-
-- Data Visualization (Graduate/Undergraduate, at Hiroshima University, Autumn 2020-2023)
-
-- Labor Economics (Undergraduate, at Tokyo Metropolitan University, Spring 2019)
-
 - Money and Banking (Graduate, at Hiroshima University, Spring 2018-2019)
 
-- Search Theory (Graduate, at University of Tokyo, Autumn 2017)
-
 - Time Series Econometrics (Graduate, at Hiroshima University, Autumn 2017-2019)
+
+- Search Theory (Graduate, at University of Tokyo, Autumn 2017)
 
 - Development Econometrics (Graduate, at Hiroshima University, Autumn 2015)
 
@@ -153,3 +157,13 @@ September 2013
 - Labor Economics (Undergraduate, at Hiroshima University, Autumn 2011-2013)
 
 - Labor Economics (at Hiroshima University, Autumn 2011-2013)
+
+
+#### Short course
+
+- Machine Learning (Working person, at the Japan Center for Economic Research, June 2022-)
+
+- Machine Learning (Researcher/Working person, at JILPT/Ministry of Health, Labour and Welfare, Summer 2024)
+
+- Machine Learning/AI Boot Camp (Researcher/working person, Bank of Japan, June 2025)
+
